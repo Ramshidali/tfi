@@ -863,9 +863,11 @@ html:lang(ar) .language-picker:before{
 
     .wwd-text{
         color: white !important;
-        line-height: 25px;
+        line-height: 25px !important;
     }
-
+    .wwd-heading{
+        padding-bottom: 15px;
+    }
     footer{
         text-align: center;
         padding: 0 20px;
@@ -1266,7 +1268,7 @@ html:lang(ar) .faq-element .title:after{
     }
 
     .second-slider-container.p-40{
-        padding-top: 20% !important;
+        padding-top: 15% !important;
     }
 
     .footer-contact-us .col-md-2{
